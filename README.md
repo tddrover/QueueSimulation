@@ -5,7 +5,7 @@ A c++ a queueing system where customers arrive at random intervals, are served b
 Includes:
 - Queue structure file
 - QueueNode file which represents a node in a linked list
-- Main simulation queueing 
+- Main simulation queueing file
 
 Screenshots: 
 
